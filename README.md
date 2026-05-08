@@ -1,7 +1,7 @@
 
 # Malicious Extension Investigation
 
-Sophos EDR trigger an alert from one of our custoemr regarding initiate C2 (Command and Control) connection to the malicious domain (admitab.com) from one of the endpoints where it installed malicious extension.
+Sophos EDR trigger an alert from one of our customer regarding initiate C2 (Command and Control) connection to the malicious domain (admitab.com) from one of the endpoints where it installed malicious extension.
 
 
 

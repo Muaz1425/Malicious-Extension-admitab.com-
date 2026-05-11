@@ -86,3 +86,5 @@ Search any information regarding this malicious extension, we found an article t
 Using Sophos EDR, we can extract all the endpoints that have chrome extension and from article that provide extension id, we can find the malicious extension that have being installed.
 
 With this we able to remove the malicious extension from the endpoints when Source IP Address is not available.
+
+Best way to mitigate this from happening again in future is implementing group-policy where only official extension can be installed on endpoints
